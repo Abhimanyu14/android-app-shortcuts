@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">App Shortcuts</string>
+
+    <!--Shortcut-->
+    <string name="shortcut_short_label">Short label</string>
+    <string name="shortcut_long_label">Long label</string>
+    <string name="shortcut_disabled_message">Disabled message</string>
 </resources>
